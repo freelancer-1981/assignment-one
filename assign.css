@@ -1,2 +1,16 @@
 
-h2{background-color: brown;}
+
+    /* Nab bar start  */
+
+         nav{display: flex;justify-content: space-around; align-items: center;}   
+         
+         
+         nav img{ margin-left: 120px; width: 139px; height: 60px; }
+
+         nav ul{display: flex; justify-content: space-between; list-style: none; text-align: center;
+             gap: 32px; color: #000000; width: 365px; height: 24px; font-size: 16px; }
+
+           nav button{ width:164 px; height: 44px; background-color: #30b858; 
+        border-radius: 4px; border: none; color: white;  font-size: 16px; font-weight: 600px; } 
+
+     /* start   hero section */    
