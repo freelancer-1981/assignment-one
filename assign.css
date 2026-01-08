@@ -8,9 +8,52 @@
          nav img{ margin-left: 120px; width: 139px; height: 60px; }
 
          nav ul{display: flex; justify-content: space-between; list-style: none; text-align: center;
-             gap: 32px; color: #000000; width: 365px; height: 24px; font-size: 16px; }
+             gap: 32px; color: #000000; width: 365px; height: 24px; font-size: 16px;cursor: pointer; }
 
            nav button{ width:164 px; height: 44px; background-color: #30b858; 
         border-radius: 4px; border: none; color: white;  font-size: 16px; font-weight: 600px; } 
+        nav button:hover{background-color: magenta;}
 
-     /* start   hero section */    
+     /* start   hero section */ 
+   #stracture-cover-png{background-image: url(./Materials/assets/hero-bg.png);}
+   
+     .tracture-coverpng{background-image: url(./Materials/assets/hero-bg.png);
+   background-position: center; background-size: cover; background-repeat: no-repeat;
+  width: 100%; height: 735px;}
+
+  .early-button{background-color:white; padding: 7px 18px; border: none;
+     border-radius: 2cm; font-size: 18px;}
+     .early-button:hover{background-color: rgb(101, 147, 203) ;}
+     
+    .tracture-continer{ align-items: center; text-align: center;
+    margin: 0px auto; width: 650px; padding: 154px;}
+
+     .button{padding: 12px 30px; border: none;
+    border-radius: 25px;  font-size: 18px;}
+
+   .taking{line-height: 15px;}
+  .taking h1{font-size: 72px; font: bold; color: white;}
+  .taking h2{ font-size: 72px; font: bold; color: #30b868;}
+  .private-paragrap{color: white;}
+
+  .stracture-button{ gap: 30px; padding-top: 20px; }
+  .button-01{background-color:#30b868; padding: 12px 25px; border: none;
+     border-radius: 5px; font-size: 18px;}
+
+  .button-02{padding: 12px 30px; border: none; border-radius: 5px; 
+    background: none;  border: 1px solid black; font-size: 18px;color: aliceblue;}
+  .button-01:hover{background-color: magenta ;}
+  .button-02:hover{background-color: magenta ;}
+
+  /* .. steart....card section.......... */
+
+  .card-container{ border: 1px solid red; width: 1140px;
+  margin: auto; align-items: center; text-align: center; padding: 110px;}
+
+  .card{display: flex; justify-content: space-between;
+  width: 125px;}
+
+
+
+     
+ 
