@@ -38,10 +38,10 @@
 
   .stracture-button{ gap: 30px; padding-top: 20px; }
   .button-01{background-color:#30b868; width: 190px; height: 50px; border: none;
-     border-radius: 5px; font-size: 15px; color: white;}
+     border-radius: 5px; font-size: 12px; color: white;}
 
   .button-02{padding: 12px 30px; border: none; border-radius: 5px; 
-    background: none;  border: 1px solid black; font-size: 18px;color: aliceblue;}
+    background: none;  border: 1px solid black; font-size: 12px;color: aliceblue;}
   .button-01:hover{background-color: magenta ;}
   .button-02:hover{background-color: magenta ;}
 
@@ -91,10 +91,11 @@
   text-align: center; align-items: center; padding: 90px;}
 
   .ready-button{background: #30b868; width: 150px; height: 50px;
-     border: none; border-radius: 5px; color: white; font: 700;}
+     border: none; border-radius: 5px; color: white; font: 700; font-size: 12px;}
+
      .ready-button:hover{background-color: magenta;}
 
-     /* start-sosiallink section? */
+     /* start-sociallink section? */
 
       .footer{width: 945px; padding: 120px; background-color: black; margin: auto;}
 
