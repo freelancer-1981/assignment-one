@@ -37,8 +37,8 @@
   .private-paragrap{color: white;}
 
   .stracture-button{ gap: 30px; padding-top: 20px; }
-  .button-01{background-color:#30b868; padding: 12px 25px; border: none;
-     border-radius: 5px; font-size: 18px;}
+  .button-01{background-color:#30b868; width: 190px; height: 50px; border: none;
+     border-radius: 5px; font-size: 15px; color: white;}
 
   .button-02{padding: 12px 30px; border: none; border-radius: 5px; 
     background: none;  border: 1px solid black; font-size: 18px;color: aliceblue;}
@@ -82,6 +82,16 @@
 
     .abcd{display: flex; justify-content: first baseline; align-items: center;}
     .abcd img{width: 20px; height: 15px;}
+
+    .section-4{padding-top: 50px;}
+
+
+    .ready-container{ background-color: #eaeaef;
+    width: 1000px; height: 200px; margin: auto; border-radius: 10px;
+  text-align: center; align-items: center; padding: 90px;px;}
+
+  .ready-button{background: #30b868; width: 150px; height: 50px;
+     border: none; border-radius: 5px; color: white; font: 700;}
 
 
      
