@@ -87,11 +87,28 @@
 
 
     .ready-container{ background-color: #eaeaef;
-    width: 1000px; height: 200px; margin: auto; border-radius: 10px;
-  text-align: center; align-items: center; padding: 90px;px;}
+    width: 1000px; height: 200px; margin: auto; 
+  text-align: center; align-items: center; padding: 90px;}
 
   .ready-button{background: #30b868; width: 150px; height: 50px;
      border: none; border-radius: 5px; color: white; font: 700;}
+     .ready-button:hover{background-color: magenta;}
+
+     /* start-sosiallink section? */
+
+      .footer{width: 945px; padding: 120px; background-color: black; margin: auto;}
+
+     .social-link{  display: flex; justify-content: space-between;
+    margin: auto; background: #000000;}
+
+    .social-link i{background-color: #eaeaef;
+    gap: 10px; border-radius: 10px;}
+
+    .social-name{color: #eaeaef;}
+   .all-right{color: aliceblue; text-align: center ;width: 100%;  margin-top: 20px;}
+
+  
+
 
 
      
